@@ -15,4 +15,4 @@ Worktile 目前包含消息、项目、日历、网盘、简报、审批、目�
 
 ![](/assets/1-42.png)
 
-当然，针对不同的版本，Worktile也会提供不同的服务支持，想了解详细的版本定价及各版本的服务支持，可到Worktile官网-价格页面[查看详情](https://worktile.com/pricing)。
+当然，针对不同的版本，Worktile也会提供不同的服务支持，想了解详细的版本定价及各版本的服务支持，可到[Worktile官网-价格页面查看详情](https://worktile.com/pricing)。
