@@ -12,4 +12,7 @@
   * [认识不同版本的定价和差别](wo-shi-xin-shou/ren-shi-bu-tong-ban-ben-de-ding-jia-he-cha-bie.md)
   * [下载Worktile APP](wo-shi-xin-shou/xia-zai-worktile-app.md)
   * [常见问题](wo-shi-xin-shou/chang-jian-wen-ti.md)
+* [技术手册](shou-ye/ji-zhu-shou-ce.md)
+* [功能日记](gong-neng-ri-ji.md)
+* [获得在线帮助](huo-de-zai-xian-bang-zhu.md)
 
