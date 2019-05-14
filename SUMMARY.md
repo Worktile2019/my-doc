@@ -1,8 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [首页](shou-ye.md)
+* [首页](help.md)
+  * [我是新手](help/new.md)
+    * [快速了解Worktile](help/new/know-worktile.md)
+    * [10步开启Worktile](help/new/started.md)
 * [我是新手](wo-shi-xin-shou.md)
   * [快速了解Worktile](wo-shi-xin-shou/kuai-su-le-jie-worktile.md)
   * [10步开启Worktile](wo-shi-xin-shou/10bu-kai-qiworktile.md)
@@ -18,4 +20,5 @@
   * 安全手册
 * [功能日记](gong-neng-ri-ji.md)
 * [获得在线帮助](huo-de-zai-xian-bang-zhu.md)
+* [消息模块](message.md)
 
