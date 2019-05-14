@@ -7,6 +7,7 @@
     * [10步开启Worktile](help/new/started.md)
     * [创建一个企业](help/new/building-team.md)
     * [加入已经有的企业](help/new/join-team.md)
+    * [了解角色和权限](help/new/roles-limits.md)
 * [我是新手](wo-shi-xin-shou.md)
   * [快速了解Worktile](wo-shi-xin-shou/kuai-su-le-jie-worktile.md)
   * [10步开启Worktile](wo-shi-xin-shou/10bu-kai-qiworktile.md)
