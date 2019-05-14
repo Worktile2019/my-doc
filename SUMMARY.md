@@ -11,11 +11,11 @@
     * [认识不同版本的定价和差别](help/new/prices.md)
     * [下载 Worktile APP](help/new/download-app.md)
     * [常见问题](help/new/questions.md)
-* [视频库](shi-pin-ku.md)
-* [技术手册](shou-ye/ji-zhu-shou-ce.md)
-  * [部署手册](shou-ye/ji-zhu-shou-ce/bu-shu-shou-ce.md)
-  * 安全手册
-* [功能日记](gong-neng-ri-ji.md)
+  * [视频库](help/video.md)
+  * [技术手册](help/tech.md)
+    * [本地部署](help/tech/local.md)
+    * [安全手册](help/tech/safety.md)
+  * [功能日记](help/function-dairy.md)
 * [获得在线帮助](huo-de-zai-xian-bang-zhu.md)
 * [消息模块](message.md)
 
