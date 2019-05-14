@@ -10,6 +10,7 @@
     * [了解角色和权限](help/new/roles-limits.md)
     * [认识不同版本的定价和差别](help/new/ren-shi-bu-tong-ban-ben-de-ding-jia-he-cha-bie.md)
     * [下载 Worktile APP](help/new/download-app.md)
+    * [常见问题](help/new/questions.md)
 * [我是新手](wo-shi-xin-shou.md)
   * [快速了解Worktile](wo-shi-xin-shou/kuai-su-le-jie-worktile.md)
   * [10步开启Worktile](wo-shi-xin-shou/10bu-kai-qiworktile.md)
