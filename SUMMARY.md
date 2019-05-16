@@ -16,5 +16,5 @@
   * [安全手册](help/tech/safety.md)
 * [视频库](help/video.md)
 * [功能日记](help/function-dairy.md)
-* [活动在线帮助](help/online-help.md)
+* [获得在线帮助](help/online-help.md)
 
