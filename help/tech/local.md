@@ -201,24 +201,30 @@ worktile-im.xxx.com
 mongodb/standalone/db
 日志文件
 mongodb/standalone/logs
-Cache
+
+* Cache
 数据文件
 redis/standalone/db
 日志文件
 redis/standalone/logs
-Search
+
+* Search
 数据文件
 elasticsearch/db
 日志文件
 elasticsearch/logs
-Box
+
+* Box
 数据文件
 seaweedfs
-LB
+
+* LB
 日志文件
 nginx/logs
-6.2.3监控
-定时监控脚本
+
+#### 6.2.3监控
+* 定时监控脚本
+
 在crontab中配置了监控脚本，每分钟会执行一次，如下：
 /home/ubuntu/worktile/script/monitor-services.sh >> /home/ubuntu/worktile/script/monitor-services.sh.out 2>&1
 当有服务所在的容器停下来的时候，该脚本监测到会将其启动起来
