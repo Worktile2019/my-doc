@@ -14,7 +14,6 @@
 * [技术手册](help/tech.md)
   * [本地部署](help/tech/local.md)
   * [安全手册](help/tech/safety.md)
-* [视频库](help/video.md)
 * [功能日记](help/function-dairy.md)
 * [获得在线帮助](help/online-help.md)
 
