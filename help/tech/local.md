@@ -223,16 +223,20 @@ seaweedfs
 nginx/logs
 
 #### 6.2.3监控
+
 * 定时监控脚本
 
 在crontab中配置了监控脚本，每分钟会执行一次，如下：
 /home/ubuntu/worktile/script/monitor-services.sh >> /home/ubuntu/worktile/script/monitor-services.sh.out 2>&1
-当有服务所在的容器停下来的时候，该脚本监测到会将其启动起来
-后台日常检查
+当有服务所在的容器停下来的时候，该脚本监测到会将其启动起来。
+
+* 后台日常检查
+
 执行如下命令，检查服务的状态：
 docker ps -a
 会输出如下信息：
-
+![](/assets/5-12.png)
 查看STATUS的状态，UP表示在正常运行，Exited表示已经停止运行
-前台模拟用户检查
+
+* 前台模拟用户检查
 在浏览器中打开网站，例如http://worktile.xxx.com，然后登陆系统检查
