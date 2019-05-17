@@ -187,6 +187,7 @@ worktile-im.xxx.com
 `./service-manager.sh --action=restart --services="redis mongodb` web"
 
 清除
+
 `./service-manager.sh --action="rm -v" --services="redis mongodb` web"
 
 ##### 6.2.2 数据及备份
